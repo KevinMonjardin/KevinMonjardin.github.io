@@ -1,4 +1,5 @@
 # PAL TV
+![cooltext419635879710146](https://user-images.githubusercontent.com/95386762/191142984-b31f123a-0eaa-4adc-8125-64ae467b5851.gif)
 
 ![image](https://user-images.githubusercontent.com/95386762/191141610-b407f3df-c6cf-4053-a852-12940870c532.png)
 
