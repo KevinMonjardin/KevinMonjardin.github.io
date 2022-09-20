@@ -1,6 +1,4 @@
-# KevinMonjardin.github.io
-
-PAL TV
+# PAL TV
 
 ![image](https://user-images.githubusercontent.com/95386762/191141610-b407f3df-c6cf-4053-a852-12940870c532.png)
 
