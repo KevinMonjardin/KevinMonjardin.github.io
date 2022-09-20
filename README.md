@@ -14,3 +14,13 @@ Primero se exploran las líneas impares y luego las pares. En PAL se exhiben 50 
 
 ![image](https://user-images.githubusercontent.com/95386762/191141718-b0297466-d272-4b4c-ad63-92bec025a0d2.png)
 
+Detalles de señal:
+|         Parameter        |       Value       |   |   |   |
+|:------------------------:|:-----------------:|---|---|---|
+| Bandwidth                | 5 MHz             |   |   |   |
+| Horizontal sync polarity | Negative          |   |   |   |
+| Total time for each line | 64 μs             |   |   |   |
+| Front porch (A)          | 1.65+0.4 −0.1 μs  |   |   |   |
+| Sync pulse length (B)    | 4.7±0.20 μs       |   |   |   |
+| Back porch (C)           | 5.7±0.20 μs       |   |   |   |
+| Active video (D)         | 51.95+0.4 −0.1 μs |   |   |   |
