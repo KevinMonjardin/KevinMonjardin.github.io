@@ -24,3 +24,4 @@ Detalles de señal:
 | Back porch (C)           | 5.7±0.20 μs       |  
 | Active video (D)         | 51.95+0.4 −0.1 μs |   
 
+![image](https://user-images.githubusercontent.com/95386762/192661881-de36bd91-4f4a-4891-89f6-d4dfc051c9dd.png)
