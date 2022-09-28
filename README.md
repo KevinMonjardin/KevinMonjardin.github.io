@@ -13,6 +13,7 @@ Primero se exploran las líneas impares y luego las pares. En PAL se exhiben 50 
 ![image](https://user-images.githubusercontent.com/95386762/191141718-b0297466-d272-4b4c-ad63-92bec025a0d2.png)
 
 Detalles de señal:
+
 |         Parámetros        |       Valor       |   
 |:------------------------:|:-----------------:|
 | Bandwidth                | 5 MHz             |  
