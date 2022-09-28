@@ -22,3 +22,5 @@ Detalles de señal:
 | Sync pulse length (B)    | 4.7±0.20 μs       |   
 | Back porch (C)           | 5.7±0.20 μs       |  
 | Active video (D)         | 51.95+0.4 −0.1 μs |   
+
+Fin
